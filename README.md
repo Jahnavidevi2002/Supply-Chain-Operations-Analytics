@@ -61,4 +61,4 @@ Developed an interactive Power BI dashboard enabling monitoring of:
 
 ##  Author
 Jahnavi Jammi
-Aspiring Business Analyst | Business Intelligence | SQL | Python | Power BI |
+Aspiring Business Analyst  | SQL | Python | Power BI |
