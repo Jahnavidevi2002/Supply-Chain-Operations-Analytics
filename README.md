@@ -9,8 +9,6 @@
 
 ![Executive Summary Dashboard](Screenshots/Executive-Summary-Dashboard.png)
 
-🔗 **[View Live Dashboard](your-published-powerbi-link-here)** *(optional — add once published)*
-
 ---
 
 ## Overview
